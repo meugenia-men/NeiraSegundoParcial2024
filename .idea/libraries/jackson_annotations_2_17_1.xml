@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.17.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Escritorio/jackson-annotations-2.17.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Escritorio/jackson-core-2.17.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Escritorio/jackson-databind-2.17.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
